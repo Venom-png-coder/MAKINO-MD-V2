@@ -20,11 +20,11 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
+global.Owner = ["254769286210"]; //like 2347080968564 
+global.OwnerName =  "QUEEN VENOM";
+global.BotName = "♱VENOM-MD-V21♱♡⃤";
+global.packname = "♱VENOM-MD-V1♱♡⃤";                             //Do not change.
+global.author = "QUEEN VENOM";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; 
 global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; //Do not change!
@@ -64,9 +64,9 @@ global.ntilink = []
 global.mess = {
     jobdone: 'Here you go...',
     useradmin: 'Only group Admin can use the command 😂 ',
-    botadmin: 'Make me Admin first 😌📍.',
-    botowner: 'Only my *Owner* can use this command!',
-    grouponly: 'This command is only made for *Groups*',
+    botadmin: 'Nieke Admin Kababa 😌📍.',
+    botowner: 'Tafuta Bot Owner Boss!',
+    grouponly: 'This command is only made for *Venom*',
     privateonly: 'This command is only made for *Private Chat*',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Wait a lil bit (¬_¬)ﾉ...',
