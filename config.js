@@ -19,7 +19,7 @@ global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-d068872b-4dab-4aef-8fc2-924413cd4818"
 global.Owner = ["254769286210"]; //like 2347080968564 
 global.OwnerName =  "QUEEN VENOM";
 global.BotName = "♱VENOM-MD-V21♱♡⃤";
